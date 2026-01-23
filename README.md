@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋
+
 # 💫 About Me:
 I'm currently pursuing B.tech 3 year in 5 semester. <br>I build things. sometimes those things are complex automation system, sometimes those things are complex automation systems, sometimes they're idea I'm still trying to to calculate. What's consistent is that I'm obsessed with understanding how technology actually works-not just how it's marketed.
 
