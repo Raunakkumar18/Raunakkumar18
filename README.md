@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm currently pursuing B.tech 4 year in 7 semester. <br>I build things. sometimes those things are complex automation system, sometimes those things are complex automation systems, sometimes they're idea I'm still trying to to calculate. What's consistent is that I'm obsessed with understanding how technology actually works-not just how it's marketed.
+I'm currently pursuing B.tech Final year in 7 semester. <br>I build things. sometimes those things are complex automation system, sometimes those things are complex automation systems, sometimes they're idea I'm still trying to to calculate. What's consistent is that I'm obsessed with understanding how technology actually works-not just how it's marketed.
 
 
 # 💻 Tech Stack:
