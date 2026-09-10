@@ -188,3 +188,22 @@ Data-Driven Decisions
 ⭐ **If you find my projects useful, consider giving them a star!**
 
 </div>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raunakkumar18&theme=tokyo-night&hide_border=true&area=true&custom_title=Raunak%20Kumar's%20Contribution%20Activity" alt="Contribution Activity Graph"/>
+</p>
+
+<div align="center">
+
+### 🔥 Contributions in the Last Year
+
+<p>
+  <img src="https://github-readme-streak-stats.demolab.com?user=Raunakkumar18&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Contribution Streak"/>
+</p>
+
+**💻 Keep Coding • 📊 Keep Analyzing • 🚀 Keep Growing**
+
+</div>
+
